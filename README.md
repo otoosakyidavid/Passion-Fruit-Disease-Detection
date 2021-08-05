@@ -17,5 +17,7 @@ https://zindi.africa/hackathons/indabax-uganda-2021/data
 At the close of the hackathon,
 
 Rank - **7th out of 12**
+
 Ranked Private Leaderboard score                    - 0.974789915966387
+
 Best Private Leaderboard score (unselected)         - 0.980392156862745 (code uploaded)
