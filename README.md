@@ -4,18 +4,21 @@ Passion fruit pests and diseases in Uganda lead to reduced yields and decreased 
 
 The Marconi Society Machine Learning Laboratory at Makerere University is addressing the lack of a reliable, timely diagnostic platform for passion fruit diseases by developing a low-cost hand-held diagnostic device (based on the Raspberry Pi) making use of state-of-the-art machine learning techniques.
 
-# Type of Task
+## Type of Task
 
 The challenge requires that these we classify the disease status of a plant given an image of a passion fruit.
 The task is a Computer Vision task and unstructured.
 
 The model implement `fastai` library. (version 2.4.1 preferably)
 
-# Dataset
+## Dataset
 The competition dataset could be find on:
 https://zindi.africa/hackathons/indabax-uganda-2021/data
 
-# Leaderboard Score
+## Evaluation Metric
+The evaluation metric used is **Accuracy**
+
+## Leaderboard Score
 At the close of the hackathon,
 
 Rank - **7th out of 12**
